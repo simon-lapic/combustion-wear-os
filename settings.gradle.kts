@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CombustionTile"
+rootProject.name = "IgnitionApp"
 include(":app")
  
