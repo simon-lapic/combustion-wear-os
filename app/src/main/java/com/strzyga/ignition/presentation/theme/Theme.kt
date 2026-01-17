@@ -1,4 +1,4 @@
-package com.strzyga.combustiontile.presentation.theme
+package com.strzyga.ignition.presentation.theme
 
 import androidx.compose.runtime.Composable
 import androidx.wear.compose.material.MaterialTheme

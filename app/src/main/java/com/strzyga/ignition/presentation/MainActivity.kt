@@ -3,7 +3,7 @@
  * most up to date changes to the libraries and their usages.
  */
 
-package com.strzyga.combustiontile.presentation
+package com.strzyga.ignition.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -23,8 +23,8 @@ import androidx.wear.compose.material.MaterialTheme
 import androidx.wear.compose.material.Text
 import androidx.wear.compose.material.TimeText
 import androidx.wear.tooling.preview.devices.WearDevices
-import com.strzyga.combustiontile.R
-import com.strzyga.combustiontile.presentation.theme.CombustionTileTheme
+import com.strzyga.ignition.R
+import com.strzyga.ignition.presentation.theme.CombustionTileTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

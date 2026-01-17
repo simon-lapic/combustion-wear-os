@@ -1,4 +1,4 @@
-package com.strzyga.combustiontile.complication
+package com.strzyga.ignition.complication
 
 import androidx.wear.watchface.complications.data.ComplicationData
 import androidx.wear.watchface.complications.data.ComplicationType

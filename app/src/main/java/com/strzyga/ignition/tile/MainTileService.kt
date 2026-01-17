@@ -1,4 +1,4 @@
-package com.strzyga.combustiontile.tile
+package com.strzyga.ignition.tile
 
 import android.content.Context
 import androidx.wear.protolayout.ColorBuilders.argb

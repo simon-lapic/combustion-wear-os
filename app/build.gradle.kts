@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.strzyga.combustiontile"
+    namespace = "com.strzyga.ignition"
     compileSdk = 35
 
     defaultConfig {
